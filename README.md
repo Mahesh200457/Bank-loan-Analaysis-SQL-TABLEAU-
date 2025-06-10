@@ -44,21 +44,16 @@ This project focuses on analyzing and visualizing bank loan data to help stakeho
 
 
 
-## 🖼️ Dashboard Snapshots
+## 📊 RBI Bank Loan Dashboard Snapshots
 
-### 📌 Overview Dashboard
+### 🔸 Overview Dashboard
 
-![Overview Dashboard](https://github.com/Mahesh200457/Pizza-Data-Analysis/blob/main/170a3cf6-5ade-4ebf-99bf-82a52f944731.png?raw=true)
+![Summary Dashboard](https://github.com/Mahesh200457/Bank-loan-Analaysis-SQL-TABLEAU-/blob/main/Screenshot%202025-06-10%20113136.png?raw=true)
 
-### 📌 Uploaded Dashboard Overview
+### 🔸 Summary Dashboard
 
-![Uploaded Overview](https://raw.githubusercontent.com/Mahesh200457/Pizza-Data-Analysis/main/Screenshot%202025-06-10%20113123.png)
+![Overview Dashboard](https://github.com/Mahesh200457/Bank-loan-Analaysis-SQL-TABLEAU-/blob/main/Screenshot%202025-06-10%20113123.png?raw=true)
 
-### 📌 Uploaded Summary
-
-![Uploaded Summary]([https://raw.githubusercontent.com/Mahesh200457/Pizza-Data-Analysis/main/Screenshot%202025-06-10%20113136.png](https://github.com/Mahesh200457/Bank-loan-Analaysis-SQL-TABLEAU-/blob/main/Screenshot%202025-06-10%20113136.png?raw=true))
-
----
 
 ## 🧠 SQL Query Report
 
