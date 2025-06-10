@@ -55,13 +55,15 @@ This project focuses on analyzing and visualizing bank loan data to help stakeho
 ![Overview Dashboard](https://github.com/Mahesh200457/Bank-loan-Analaysis-SQL-TABLEAU-/blob/main/Screenshot%202025-06-10%20113123.png?raw=true)
 
 
-## 🧠 SQL Query Report
+## 📄 SQL Query Report
 
-All SQL queries used for data extraction and transformation can be found in:
+The notebook contains all the SQL queries used for:
 
-📁 `sql_query_report.sql`
+- Data extraction from the bank database
+- Data cleaning and filtering based on KPIs
+- Preparation of final dataset for Tableau visualization
 
----
+📂 Access the full SQL query notebook here:  
+🔗 [bank_loan_analysis_sql.ipynb](https://github.com/Mahesh200457/Bank-loan-Analaysis-SQL-TABLEAU-/blob/main/bank_loan_analysis_sql.ipynb)
 
-## 📁 Folder Structure
 
