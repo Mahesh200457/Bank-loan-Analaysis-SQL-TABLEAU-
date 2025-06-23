@@ -21,10 +21,10 @@ This project focuses on analyzing and visualizing bank loan data to help stakeho
    → Handled missing, null, and incorrect data using **SQL** and **Excel**.
 
 5. **Load Process**  
-   → Loaded clean data into **Tableau** for visualization.
+   → Loaded clean data into **Power BI** for visualization.
 
 6. **Dashboard Development**  
-   → Created interactive Tableau dashboards based on client requirements.
+   → Created interactive Power BI dashboards based on client requirements.
 
 ---
 
